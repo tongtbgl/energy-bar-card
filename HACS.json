@@ -1,0 +1,8 @@
+{
+  "name": "energy-bar-card",
+  "render_readme": true,
+  "filename": "energy-bar-card.js",
+  "zip_release": true,
+  "domains": ["lovelace"],
+  "homeassistant": "2024.8"
+}
