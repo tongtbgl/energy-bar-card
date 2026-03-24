@@ -18,7 +18,7 @@ Custom card cho Home Assistant hiển thị **tổng năng lượng và tỉ l�
 
 ---
 ## Cài đặt
-Thêm kho lưu trữ tùy chỉnh vào hacs `https://github.com/tongtbgl/tb-energy-flow-card`
+Thêm kho lưu trữ tùy chỉnh vào hacs `https://github.com/tongtbgl/energy-bar-card`
 Thêm thành công tìm energy bar card để tải xuống và dùng
 
 ## 🛠️ Cấu hình mẫu
